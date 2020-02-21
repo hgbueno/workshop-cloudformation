@@ -280,9 +280,3 @@ Resources:
         - arn:aws:iam::aws:policy/job-function/SystemAdministrator
         - arn:aws:iam::aws:policy/IAMFullAccess
 
-  PipelineSNSTopic:
-    Type: AWS::SNS::Topic
-    Properties:
-      Subscription:
-        - Endpoint: !Ref email
-          Protocol: email
