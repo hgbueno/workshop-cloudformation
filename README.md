@@ -25,7 +25,7 @@ prerequisites:
 - Familiarize with JSON and YAML [CloudFormation template
   formats](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-formats.html)
 
-- Familiarize with the [template anatomy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html)structure
+- Familiarize with the [template anatomy](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-anatomy.html) structure
 
 - Familiarize with the [Template Reference](https://docs.aws.amazon.com/AWSCloudFormation/latest/UserGuide/template-reference.html)and keep it handy in your bookmarks as you will need it when editing your templates
 
